@@ -93,7 +93,7 @@ def daily_reminders():
 
 
 def send_email(to_email, html_content,subjected):
-    from_email = 'sayaniitmadras2026@gmail.com'
+    from_email = 'sayan24test@gmail.com'
     subject = subjected
 
     msg = MIMEMultipart('alternative')
@@ -106,7 +106,7 @@ def send_email(to_email, html_content,subjected):
 
     smtp_server = 'smtp.gmail.com'
     smtp_port = 587
-    smtp_username = 'sayaniitmadras2026@gmail.com'
+    smtp_username = 'sayan24test@gmail.com'
     smtp_password = 'rpuu xpbc qace gnib'
 
     with smtplib.SMTP(smtp_server, smtp_port) as server:
