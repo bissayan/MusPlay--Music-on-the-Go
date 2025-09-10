@@ -14,6 +14,7 @@ Backend: (Python/Flask-JWT-Extended)
 Flask-SQLAlchemy (ORM), SQLite (configurable)
 Frontend (Vue.js - Vue 3 with Vuex & Vue Router
 
+```plaintext
 musplay_music_app_/
 │── backend/                # Flask backend
 │   ├── app.py              # Entry point
