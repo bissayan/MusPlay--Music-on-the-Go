@@ -25,6 +25,7 @@ Landing Page
 
 
 
+Project Structure
 
 ```plaintext
 musplay_music_app_/
