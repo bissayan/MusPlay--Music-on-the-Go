@@ -109,7 +109,7 @@ cache = Cache(app, config={'CACHE_TYPE': 'redis', 'CACHE_REDIS': redis_client})
 
 
 app.config['UPLOAD_FOLDER'] = os.path.join(app.root_path,  'say2vue', 'public', 'static', 'song_store')
-app.config['SQLALCHEMY_DATABASE_URI']= 'sqlite:///22f3001500-MAD-1.sqlite3'
+app.config['SQLALCHEMY_DATABASE_URI']= 'sqlite:///22f3001500-MAD-2.sqlite3'
 app.config['SECRET KEY']='thisasecretkey'
 app.config['SECRET_KEY'] = 'your_secret_key_here'
 app.config['JSON_AS_ASCII'] = False
