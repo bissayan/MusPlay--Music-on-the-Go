@@ -14,6 +14,18 @@ Backend: (Python/Flask-JWT-Extended)
 Flask-SQLAlchemy (ORM), SQLite (configurable)
 Frontend (Vue.js - Vue 3 with Vuex & Vue Router
 
+Landing Page
+<div align="center">
+<div style="height:700px; overflow-y:auto; border:1px solid #d0d7de; border-radius:8px; padding:10px;">
+
+<img src="./docs/MusPlay.png" width="100%">
+
+</div>
+</div>
+
+
+
+
 ```plaintext
 musplay_music_app_/
 │── backend/                # Flask backend
