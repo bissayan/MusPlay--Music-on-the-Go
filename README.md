@@ -1,6 +1,7 @@
 MusPlay is a full-stack music streaming and management application built with Flask (Python) for the backend and Vue.js for the frontend. It allows users to register, log in, create and manage songs/albums/playlists, track listens, and visualize performance with interactive charts.
 
 Demo Video Link: https://drive.google.com/file/d/1_EBk9edtjpfNR7Q67bQq72FoflzFuo-m/view?usp=drive_link
+
 Features:
 Authentication & Authorization using JWT
 Song Management – Upload, stream, rate, and delete songs.
